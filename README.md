@@ -108,8 +108,6 @@ npm install
 npm run dev
 ```
 
-> Crie um arquivo `.env` com suas credenciais do Firebase antes de rodar.
-
 ### 🌐 Deploy
 
 👉 [klosr-finance.web.app](https://klosr-finance.web.app)
